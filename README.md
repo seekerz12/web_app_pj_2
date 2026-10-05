@@ -1,6 +1,6 @@
-# CareSync - Clinical Management System (Senior Project POC)
+# CareSync - Clinical Management System
 
-CareSync is a full-stack clinical management web portal built as a Proof of Concept (POC) for our senior project. The system manages patient records, physician rosters with dynamic schedule selectors, and conflict-aware appointment bookings on a self-hosted Azure Ubuntu production environment.
+CareSync is a full-stack clinical management web portal. The system manages patient records, physician rosters with dynamic schedule selectors, and conflict-aware appointment bookings on a self-hosted Azure Ubuntu production environment.
 
 ---
 
